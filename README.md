@@ -5,6 +5,9 @@
   alt="Corgi">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+scientist)](https://git.io/typing-svg)
+### About me
+My name is Nastya, since June 2022 I have been studying data science. Previously, I worked in data analysis within aviation.
+To deepen my knowledge in analysis, I took several online courses, with the help of which I mastered the necessary skills.
 
 ### Languages and tools 🔧
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
