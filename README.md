@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Anastasia
+### Hi there 👋 
 
 <image
   src="corgi.jpeg"
