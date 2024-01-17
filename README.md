@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+scientist)](https://git.io/typing-svg)
 
+### Languages and tools 🔧
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,6 +24,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### LeetCode:  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anastasia_Korotkova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
 **NastyaNastyalalala/NastyaNastyalalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
