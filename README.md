@@ -38,7 +38,7 @@ The certificate is available at the link: (https://lab.karpov.courses/certificat
 ### RECENT PROJECTS:
 | Repositiries | Description| 
 | :---:   | :---: |
-| ![Sigma cabs](https://github.com/NastyaNastyalalala/sigma_cabs) | research for multi-class classification use case |
+| [Sigma cabs](https://github.com/NastyaNastyalalala/sigma_cabs) | research for multi-class classification use case |
 <!--
 **NastyaNastyalalala/NastyaNastyalalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
