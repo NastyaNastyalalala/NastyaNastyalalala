@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+scientist)](https://git.io/typing-svg)
 ### About me
-My name is Nastya, since June 2022 I have been studying data science. Previously, I worked in data analysis within aviation.
-To deepen my knowledge in analysis, I took several online courses, with the help of which I mastered the necessary skills.
+My name is Nastya. Data Analyst with a strong mathematical background and experience in working with big data. Continuously enhancing skills through participation in Kaggle competitions and pursuing specialized courses. 
+I see deepening into the field of Data Science as the next step in my career development.
 
 ### Languages and tools 🔧
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -27,9 +27,18 @@ To deepen my knowledge in analysis, I took several online courses, with the help
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+### Сertificate:
+
+The certificate is available at the link: (https://lab.karpov.courses/certificate/5691a805-745b-49cd-80f4-4e6f3b3de2e6/en/)
+
 ### LeetCode:  
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anastasia_Korotkova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+
+### RECENT PROJECTS:
+| Repositiries | Description| 
+| :---:   | :---: |
+| ![Sigma cabs](https://github.com/NastyaNastyalalala/sigma_cabs) | research for multi-class classification use case |
 <!--
 **NastyaNastyalalala/NastyaNastyalalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
