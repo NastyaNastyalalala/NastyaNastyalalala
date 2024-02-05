@@ -35,10 +35,24 @@ The certificate is available at the link: (https://lab.karpov.courses/certificat
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Anastasia_Korotkova&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
-### RECENT PROJECTS:
+### Recent projects:
 | Repositiries | Description| 
 | :---:   | :---: |
-| [Sigma cabs](https://github.com/NastyaNastyalalala/sigma_cabs) | research for multi-class classification use case |
+| [Sigma cabs](https://github.com/NastyaNastyalalala/sigma_cabs) | contains research for multi-class classification |
+| [microsoft_malware_detection](https://github.com/NastyaNastyalalala/microsoft_malware_detection) | contains research for binary classification |
+| [imdb_sentiment](https://github.com/NastyaNastyalalala/imdb_sentiment) |  contains research for IMDB sentiment analysis use case |
+| [sber_eda](https://github.com/NastyaNastyalalala/sber_eda) | contains research for real estate price prediction use case |
+| [cifar10](https://github.com/NastyaNastyalalala/cifar10) | training a neural network for classification on the CIFAR10 dataset |
+| [oxfords_pet](https://github.com/NastyaNastyalalala/oxfords_pet) | training a neural network for classification and segmentation on the OxfordIIIPet dataset |
+| [diabets clustering](https://github.com/NastyaNastyalalala/diabets_clustering) | prediction whether an individual has diabetes or not |
+| [insurance company](https://github.com/NastyaNastyalalala/insurance_company) | need to understand whether the client will be interested in insurance |
+| [car prices](https://github.com/NastyaNastyalalala/car_prices) | car price prediction |
+| [taxi dataset](https://github.com/NastyaNastyalalala/taxi_dataset) | duration of a taxi ride prediction |
+| [voc detection](https://github.com/NastyaNastyalalala/voc_detection)| detection task (find “candidates” - rectangles; classify these rectangles) |
+| [ Probability of default](https://github.com/NastyaNastyalalala/probability_of_default) | learn to predict whether a gnome who forgot his wallet at home will return the money within the next few days or, in modern language, his order will default |
+| [Fraud Detection](https://github.com/NastyaNastyalalala/fraud_detection)| contains research for Fraud Detection use case |
+| [Store Sales](https://github.com/NastyaNastyalalala/store_sales) | contains research for Store Sales - Time Series Forecasting use case |
+| [Recommender system] (https://github.com/NastyaNastyalalala/fastapi_recomender_system) | contains research and FastAPI service implementation of a recommendation system for posts on a social network |
 <!--
 **NastyaNastyalalala/NastyaNastyalalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
