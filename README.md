@@ -52,7 +52,7 @@ The certificate is available at the link: (https://lab.karpov.courses/certificat
 | [ Probability of default](https://github.com/NastyaNastyalalala/probability_of_default) | learn to predict whether a gnome who forgot his wallet at home will return the money within the next few days or, in modern language, his order will default |
 | [Fraud Detection](https://github.com/NastyaNastyalalala/fraud_detection)| contains research for Fraud Detection use case |
 | [Store Sales](https://github.com/NastyaNastyalalala/store_sales) | contains research for Store Sales - Time Series Forecasting use case |
-| [Recommender system] (https://github.com/NastyaNastyalalala/fastapi_recomender_system) | contains research and FastAPI service implementation of a recommendation system for posts on a social network |
+| [Recommender system](https://github.com/NastyaNastyalalala/fastapi_recomender_system) | contains research and FastAPI service implementation of a recommendation system for posts on a social network |
 <!--
 **NastyaNastyalalala/NastyaNastyalalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
