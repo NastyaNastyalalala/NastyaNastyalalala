@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+scientist)](https://git.io/typing-svg)
 ### About me
-My name is Nastya. Data Analyst with a strong mathematical background and experience in working with big data. Continuously enhancing skills through participation in Kaggle competitions and pursuing specialized courses. 
+My name is Nastya. Data Scientist with a strong mathematical background and experience in working with big data. Continuously enhancing skills through participation in Kaggle competitions and pursuing specialized courses. 
 I see deepening into the field of Data Science as the next step in my career development.
 
 ### Languages and tools 🔧
