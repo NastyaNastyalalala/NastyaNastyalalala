@@ -10,7 +10,7 @@ My name is Nastya. Data Scientist with a strong mathematical background and expe
 I see deepening into the field of Data Science as the next step in my career development.
 
 ### Languages and tools 🔧
-#### Data Bases
+#### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
